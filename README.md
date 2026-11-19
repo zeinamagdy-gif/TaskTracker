@@ -1,1 +1,1 @@
-![Task Tracker](README.svg)
+![Task Tracker](README.SVG)
